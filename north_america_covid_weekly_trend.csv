@@ -2,7 +2,7 @@ Country/Other,Cases in the last 7 days,Cases in the preceding 7 days,Weekly Case
 Anguilla,21,19,11,1379,0,0,0,0.0,15232
 Antigua and Barbuda,7,11,-36,70,0,0,0,0.0,99315
 Aruba,47,64,-27,437,0,0,0,0.0,107541
-Bahamas,17,25,-32,43,2,0,200,5.0,399668
+The Bahamas,17,25,-32,43,2,0,200,5.0,399668
 Barbados,738,909,-19,2563,3,5,-40,10.0,287977
 Belize,109,158,-31,266,2,1,100,5.0,409963
 Bermuda,244,216,13,3943,2,1,100,32.0,61885
@@ -35,4 +35,4 @@ Sint Maarten,36,32,13,824,0,0,0,0.0,43708
 Saint Vincent and the Grenadines,3,0,300,27,0,0,0,0.0,111542
 Trinidad and Tobago,2170,2745,-21,1542,27,29,-7,19.0,1407236
 Turks and Caicos Islands,0,7,-100,0,0,0,0,0.0,39612
-USA,185761,245308,-24,556,5420,8060,-33,16.0,334321197
+United States of America,185761,245308,-24,556,5420,8060,-33,16.0,334321197
